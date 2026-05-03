@@ -1,9 +1,18 @@
-## Hi there 👋
+## Hi, I'm Mohammad  👋
 
 <!--
 **MC-utsa/MC-utsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+Personal Project space on AI system using LLMs, RAG, and Gen AI
 
-Here are some ideas to get you started:
+## 🧠 What I Work On
+- LLM Fine-tuning — LoRA, PEFT, HuggingFace Transformers
+- RAG Systems — LangChain, vector DBs (Pinecone, ChromaDB)
+- Generative AI — Stable Diffusion, DALL·E, Midjourney APIs
+- AI Agents — AutoGen, CrewAI, multi-step reasoning
+
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
